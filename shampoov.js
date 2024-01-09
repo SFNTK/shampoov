@@ -207,34 +207,34 @@ fromTo("#productyellow",{
 
   },{
     rotate:360,
-    top:"111%",left:"40%",
+    top:"111vh",left:"40%",
     width:"18%",
     duration:5
 
   },"firstanimation").to("#productblue",{
     rotate:360,
-    top:"111%",opacity:0,left:"40%",
+    top:"111vh",opacity:0,left:"40%",
    width:"18%",
     duration:5
   },"firstanimation").to("#productpink",{
     rotate:360,left:"40%",
     opacity:0,
-    top:"111%",
+    top:"111vh",
     width:"18%",
     duration:5
   },"firstanimation").to("#logo",{
     
-    top:"142%",
+    top:"142vh",
     left:"25%",
     duration:5
   },"firstanimation").to("#price",{
     
-    top:"120%",
+    top:"120vh",
     
     duration:5
   },"firstanimation").to("#tike",{
     
-    top:"120%",
+    top:"120vh",
     left:"65%",
     duration:5
   },"firstanimation")
@@ -253,13 +253,13 @@ fromTo("#productyellow",{
 
   },{
     rotate:360,
-    top:"211%",left:"40%",
+    top:"211vh",left:"40%",
     width:"18%",opacity:0,
     duration:5
 
   },"firstanimation").to("#productblue",{
     rotate:360,
-    top:"211%",opacity:0,left:"40%",
+    top:"211vh",opacity:0,left:"40%",
    width:"18%",
     duration:5
   },"firstanimation").fromTo("#productpink",{
@@ -267,22 +267,22 @@ fromTo("#productyellow",{
   },{
     rotate:360,left:"40%",
     opacity:1,
-    top:"211%",
+    top:"211vh",
     width:"18%",
     duration:5
   },"firstanimation").to("#logo",{
     
-    top:"242%",
+    top:"242vh",
     left:"25%",
     duration:5
   },"firstanimation").to("#price",{
     
-    top:"220%",
+    top:"220vh",
     
     duration:5
   },"firstanimation").to("#tike",{
     
-    top:"220%",
+    top:"220vh",
     left:"65%",
     duration:5
   },"firstanimation")
@@ -300,34 +300,34 @@ fromTo("#productyellow",{
 
   },{
     rotate:360,
-    top:"311%",left:"40%",
+    top:"311vh",left:"40%",
     width:"18%",
     duration:5
 
   },"firstanimation").to("#productblue",{
     rotate:360,
-    top:"311%",opacity:0,left:"40%",
+    top:"311vh",opacity:0,left:"40%",
    width:"18%",opacity:1,
     duration:5
   },"firstanimation").to("#productpink",{
     rotate:360,left:"40%",
     opacity:0,
-    top:"311%",
+    top:"311vh",
     width:"18%",
     duration:5
   },"firstanimation").to("#logo",{
     
-    top:"342%",
+    top:"342vh",
     left:"25%",
     duration:5
   },"firstanimation").to("#price",{
     
-    top:"320%",
+    top:"320vh",
     
     duration:5
   },"firstanimation").to("#tike",{
     
-    top:"320%",
+    top:"320vh",
     left:"65%",
     duration:5
   },"firstanimation")
@@ -502,33 +502,33 @@ fromTo("#productyellow",{
 
   },{
     rotate:360,
-    top:"150%",left:"40%",
+    top:"150vh",left:"40%",
     width:"20%",
     duration:5
 
   },"firstanimation").to("#productblue",{
     rotate:360,
-    top:"150%",left:"40%",
+    top:"150vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"firstanimation").to("#productpink",{
     rotate:360,
-    top:"150%",left:"40%",
+    top:"150vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"firstanimation").to("#logo",{
     
-    top:"130%",width:"60%",
+    top:"130vh",width:"60%",
     left:"20%",
     duration:5
   },"firstanimation").to("#price",{
     
-    top:"125%",width:"18%",
+    top:"125vh",width:"18%",
     
     duration:5
   },"firstanimation").to("#tike",{
     
-    top:"125%",
+    top:"125vh",
     
     duration:5
   },"firstanimation")
@@ -544,34 +544,34 @@ fromTo("#productyellow",{
 tls2.
 to("#productyellow",{
     rotate:360,
-    top:"300%",
+    top:"300vh",
     left:"40%",opacity:0,
     width:"20%",
     duration:5,
 
   },"secondanimation").to("#productblue",{
     rotate:360,
-    top:"300%",left:"40%",
+    top:"300vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"secondanimation").to("#productpink",{
     rotate:360,
-    top:"300%",left:"40%",
+    top:"300vh",left:"40%",
     width:"20%",opacity:1,
     duration:5
   },"secondanimation").to("#logo",{
     
-    top:"325%",width:"60%",
+    top:"325vh",width:"60%",
     left:"20%",
     duration:5
   },"secondanimation").to("#price",{
     
-    top:"322%",width:"18%",
+    top:"322vh",width:"18%",
     
     duration:5
   },"secondanimation").to("#tike",{
     
-    top:"322%",
+    top:"322vh",
     
     duration:5
   },"secondanimation")
@@ -586,34 +586,34 @@ to("#productyellow",{
 tls3.
 to("#productyellow",{
     rotate:360,
-    top:"485%",
+    top:"485vh",
     left:"40%",opacity:0,
     width:"25%",
     duration:5,
 
   },"secondanimation").to("#productblue",{
     rotate:360,
-    top:"485%",left:"40%",
+    top:"485vh",left:"40%",
     width:"25%",opacity:1,
     duration:5
   },"secondanimation").to("#productpink",{
     rotate:360,
-    top:"485%",left:"40%",
+    top:"485vh",left:"40%",
     width:"26%",opacity:0,
     duration:5
   },"secondanimation").to("#logo",{
     
-    top:"465%",width:"60%",
+    top:"465vh",width:"60%",
     left:"20%",
     duration:5
   },"secondanimation").to("#price",{
     
-    top:"482%",width:"25%",
+    top:"482vh",width:"25%",
     
     duration:5
   },"secondanimation").to("#tike",{
     
-    top:"482%",
+    top:"482vh",
     
     duration:5
   },"secondanimation")
@@ -636,33 +636,33 @@ fromTo("#productyellow",{
 
   },{
     rotate:360,
-    top:"170%",left:"40%",
+    top:"170vh",left:"40%",
     width:"20%",
     duration:5
 
   },"firstanimation").to("#productblue",{
     rotate:360,
-    top:"170%",left:"40%",
+    top:"170vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"firstanimation").to("#productpink",{
     rotate:360,
-    top:"170%",left:"40%",
+    top:"170vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"firstanimation").to("#logo",{
     
-    top:"150%",width:"60%",
+    top:"150vh",width:"60%",
     left:"20%",
     duration:5
   },"firstanimation").to("#price",{
     
-    top:"125%",width:"18%",
+    top:"125vh",width:"18%",
     
     duration:5
   },"firstanimation").to("#tike",{
     
-    top:"125%",
+    top:"125vh",
     
     duration:5
   },"firstanimation")
@@ -677,34 +677,34 @@ fromTo("#productyellow",{
 tls2.
 to("#productyellow",{
     rotate:360,
-    top:"345%",
+    top:"345vh",
     left:"40%",opacity:0,
     width:"25%",
     duration:5,
 
   },"secondanimation").to("#productblue",{
     rotate:360,
-    top:"345%",left:"40%",
+    top:"345vh",left:"40%",
     width:"25%",opacity:0,
     duration:5
   },"secondanimation").to("#productpink",{
     rotate:360,
-    top:"345%",left:"40%",
+    top:"345vh",left:"40%",
     width:"25%",opacity:1,
     duration:5
   },"secondanimation").to("#logo",{
     
-    top:"380%",width:"60%",
+    top:"380vh",width:"60%",
     left:"20%",
     duration:5
   },"secondanimation").to("#price",{
     
-    top:"372%",width:"18%",
+    top:"372vh",width:"18%",
     
     duration:5
   },"secondanimation").to("#tike",{
     
-    top:"372%",
+    top:"372vh",
     
     duration:5
   },"secondanimation")
@@ -719,34 +719,34 @@ to("#productyellow",{
 tls3.
 to("#productyellow",{
     rotate:360,
-    top:"540%",
+    top:"540vh",
     left:"40%",opacity:0,
     width:"25%",
     duration:5,
 
   },"secondanimation").to("#productblue",{
     rotate:360,
-    top:"540%",left:"40%",
+    top:"540vh",left:"40%",
     width:"25%",opacity:1,
     duration:5
   },"secondanimation").to("#productpink",{
     rotate:360,
-    top:"540%",left:"40%",
+    top:"540vh",left:"40%",
     width:"26%",opacity:0,
     duration:5
   },"secondanimation").to("#logo",{
     
-    top:"580%",width:"60%",
+    top:"580vh",width:"60%",
     left:"20%",
     duration:5
   },"secondanimation").to("#price",{
     
-    top:"542%",width:"25%",
+    top:"542vh",width:"25%",
     
     duration:5
   },"secondanimation").to("#tike",{
     
-    top:"542%",
+    top:"542vh",
     
     duration:5
   },"secondanimation")
@@ -767,33 +767,33 @@ fromTo("#productyellow",{
 
   },{
     rotate:360,
-    top:"170%",left:"40%",
+    top:"170vh",left:"40%",
     width:"20%",
     duration:5
 
   },"firstanimation").to("#productblue",{
     rotate:360,
-    top:"170%",left:"40%",
+    top:"170vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"firstanimation").to("#productpink",{
     rotate:360,
-    top:"170%",left:"40%",
+    top:"170vh",left:"40%",
     width:"20%",opacity:0,
     duration:5
   },"firstanimation").to("#logo",{
     
-    top:"150%",width:"60%",
+    top:"150vh",width:"60%",
     left:"20%",
     duration:5
   },"firstanimation").to("#price",{
     
-    top:"165%",width:"18%",
+    top:"165vh",width:"18%",
     
     duration:5
   },"firstanimation").to("#tike",{
     
-    top:"165%",
+    top:"165vh",
     
     duration:5
   },"firstanimation")
@@ -808,34 +808,34 @@ fromTo("#productyellow",{
 tls2.
 to("#productyellow",{
     rotate:360,
-    top:"357%",
+    top:"357vh",
     left:"40%",opacity:0,
     width:"25%",
     duration:5,
 
   },"secondanimation").to("#productblue",{
     rotate:360,
-    top:"357%",left:"40%",
+    top:"357vh",left:"40%",
     width:"25%",opacity:0,
     duration:5
   },"secondanimation").to("#productpink",{
     rotate:360,
-    top:"357%",left:"40%",
+    top:"357vh",left:"40%",
     width:"25%",opacity:1,
     duration:5
   },"secondanimation").to("#logo",{
     
-    top:"385%",width:"60%",
+    top:"385vh",width:"60%",
     left:"20%",
     duration:5
   },"secondanimation").to("#price",{
     
-    top:"372%",width:"18%",
+    top:"372vh",width:"18%",
     
     duration:5
   },"secondanimation").to("#tike",{
     
-    top:"372%",
+    top:"372vh",
     
     duration:5
   },"secondanimation")
@@ -850,34 +850,34 @@ to("#productyellow",{
 tls3.
 to("#productyellow",{
     rotate:360,
-    top:"540%",
+    top:"540vh",
     left:"35%",opacity:0,
     width:"35%",
     duration:5,
 
   },"secondanimation").to("#productblue",{
     rotate:360,
-    top:"540%",left:"35%",
+    top:"540vh",left:"35%",
     width:"35%",opacity:1,
     duration:5
   },"secondanimation").to("#productpink",{
     rotate:360,
-    top:"540%",left:"35%",
+    top:"540vh",left:"35%",
     width:"35%",opacity:0,
     duration:5
   },"secondanimation").to("#logo",{
     
-    top:"580%",width:"70%",
+    top:"580vh",width:"70%",
     left:"18%",
     duration:5
   },"secondanimation").to("#price",{
     
-    top:"542%",width:"25%",
+    top:"542vh",width:"25%",
     
     duration:5
   },"secondanimation").to("#tike",{
     
-    top:"542%",
+    top:"542vh",
     
     duration:5
   },"secondanimation")
